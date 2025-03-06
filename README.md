@@ -1,4 +1,4 @@
-# llama-stack-apps
+hi# llama-stack-apps
 
 [![Discord](https://img.shields.io/discord/1257833999603335178)](https://discord.gg/llama-stack)
 
